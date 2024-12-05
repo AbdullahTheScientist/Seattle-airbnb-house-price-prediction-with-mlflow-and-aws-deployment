@@ -1,0 +1,5 @@
+RandomForestRegressor:
+    n_estimators: 200
+    max_depth: 8
+    max_features: 'sqrt'
+    random_state: 42
