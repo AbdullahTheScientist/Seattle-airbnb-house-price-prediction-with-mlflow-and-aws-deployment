@@ -1,1 +1,1 @@
-# Seattle-airbnb-house-price-prediction-with-mlflow-and-aws-deployment
+# car-price-prediction-with-mlflow-and-aws-deployment
